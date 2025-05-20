@@ -1,6 +1,7 @@
 # Author: Catalina Rivera-Forero
 # email: c.riveraf2@uniandes.edu.co | catalina.riveraf@utadeo.edu.co | catalinariveraforero.bm@gmail.com
-
+#El siguientre script es una modificación del script desarrollado previamente en un estudio del microbioma de Madracis auretenra realizado por Ruiz-Toquica at al. (2025).
+#Ruiz-Toquica J, Franco Herrera A, Medina M (2025) Endozoicomonas dominance and Vibrionaceae stability underpin resilience in urban coral Madracis auretenra. PeerJ 13:e19226. https://doi.org/10.7717/peerj.19226
 ## Licencia
 # Este proyecto está licenciado bajo la Licencia BSD-3 Clause. Consulte el archivo [LICENSE] para más detalles.
 
